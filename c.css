@@ -58,24 +58,4 @@
             line-height: 1.6;
         }
 
-        .btn {
-            display: inline-block;
-            padding: 12px 30px;
-            background: #667eea;
-            color: white;
-            text-decoration: none;
-            border-radius: 25px;
-            margin-top: 20px;
-            transition: background 0.3s ease;
-        }
 
-
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 2rem;
-            }
-            
-            .cards {
-                grid-template-columns: 1fr;
-            }
-        }
