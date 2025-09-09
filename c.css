@@ -74,8 +74,6 @@
             h1 {
                 font-size: 2rem;
             }
-
-            /* Добавлен коммент */
             
             .cards {
                 grid-template-columns: 1fr;
