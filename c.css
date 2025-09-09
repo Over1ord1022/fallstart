@@ -69,13 +69,3 @@
             transition: background 0.3s ease;
         }
 
-
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 2rem;
-            }
-            
-            .cards {
-                grid-template-columns: 1fr;
-            }
-        }
